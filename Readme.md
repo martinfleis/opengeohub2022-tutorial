@@ -70,13 +70,13 @@ cloned in the previous section)
 
 Ensure that the correct environment is activated.
 
-```
+```bash
 conda activate geopandas-tutorial
 ```
 
 Start a jupyter notebook server by typing
 
-```
+```bash
 jupyter lab
 ```
 
