@@ -80,8 +80,14 @@ Start a jupyter notebook server by typing
 jupyter lab
 ```
 
----
+## Acknowledgements
 
-Data included:
+This tutorial is more closely or more loosely based on the following resources:
 
-- `airports.csv` from <https://ourairports.com/data/>
+- [Introduction to GeoPandas](https://geopandas.org/en/latest/getting_started/introduction.html) by Martin Fleischmann and GeoPandas contributors
+- [GeoPandas API reference](https://geopandas.org/en/stable/docs/reference.html) by GeoPandas contributors
+- [Getting started (pandas)](https://pandas.pydata.org/docs/getting_started/index.html) by Stijn Van Hoey and pandas contributors
+- Arribas-Bel, (2019). A course on Geographic Data Science. Journal of Open Source Education, 2(14), 42, [https://doi.org/10.21105/jose.00042](https://doi.org/10.21105/jose.00042)
+- Introduction to geospatial data analysis with GeoPandas and the PyData stack bu Joris van den Bossche (<https://github.com/jorisvandenbossche/geopandas-tutorial>)
+- Fleischmann, M., Feliciotti, A. and Kerr, W. (2022), Evolution of Urban Patterns: Urban Morphology as an Open Reproducible Data Science. Geogr Anal, 54: 536-558. [https://doi.org/10.1111/gean.12302](https://doi.org/10.1111/gean.12302)
+- datos.gob.es [Administrative province boundaries in Catalonia](https://datos.gob.es/en/catalogo/a09002970-limites-administativos-provinciales-de-catalunya)
