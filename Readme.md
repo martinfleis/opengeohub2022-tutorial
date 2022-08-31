@@ -50,7 +50,7 @@ conda config --set channel_priority strict
 # mamba provides a faster implementation of conda
 conda install mamba
 # creating the environment
-mamba env create --file environment.yml
+conda env create --file environment.yml
 # activating the environment
 conda activate geopandas-tutorial
 ```
@@ -78,6 +78,12 @@ Start a jupyter notebook server by typing
 
 ```bash
 jupyter lab
+```
+
+After finishing you can deactivate the environment with
+
+```bash
+conda deactivate
 ```
 
 ## Acknowledgements
