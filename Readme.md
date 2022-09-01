@@ -47,8 +47,6 @@ directory, see above):
 # setting the configuation so all packages come from the conda-forge channel
 conda config --add channels conda-forge
 conda config --set channel_priority strict
-# mamba provides a faster implementation of conda
-conda install mamba
 # creating the environment
 conda env create --file environment.yml
 # activating the environment
