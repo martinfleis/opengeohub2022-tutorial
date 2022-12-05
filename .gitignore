@@ -136,3 +136,4 @@ data/airports/
 data/airports_csv/
 data/world*
 cities.gpkg
+cities.geojson
